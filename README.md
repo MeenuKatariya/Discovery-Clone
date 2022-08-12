@@ -1,4 +1,4 @@
-#[Discovery-Clone](https://officialsiddharthbisht.github.io/Discovery-Clone/)
+<h1>Discovery Clone</h1>
 
 <h5>A website in which user can watch serial, movies.</h5>
 <h6>Tech Stack : </h6>
@@ -8,3 +8,5 @@
 <p>Users can register and login to the website, watch videos.</p>
  <p> Users can take premium for particular videos. 
 </p>
+
+App Url :"https://officialsiddharthbisht.github.io/Discovery-Clone/"
